@@ -1,11 +1,16 @@
 Experiences
-- Analysed projects operational data to gain actionable insights on key measured indicators to assess the success of different project models and identify areas of improvement
-to support and identify opportunities for impact growth, learning and accountability.
+- Conducted the process of consolidating and storing project implementation reach data in SQL and Excel from different National Office for analysis and reporting in countries we operate within
+the region ensuring its, integrity accuracy, and translate it into actionable insights for partnership report formulation and decision making.
+- Rigorously performing data validation in the SQL and Excel database using python statistical library like numpy and statmodels to sense-check numbers and identify outlier, discrepancies, gaps,
+or anomalies to ensure accuracy and quality reporting of the reach project data and develop clear escalation guidline of the data correction processes and leaning to make sure they are adhered to in future.
+- Lead A/B testing of project outcome data using python to determine the impact of different core project models and technical projects to the community we serve to strengthen project implementation.
+- Provide analytical support for projects operational data to gain actionable insights on key measured indicators to assess the success of different project models and identify areas of improvement
+to support and identify opportunities for impact growth, learning and accountability and partner-related problem-solving.. 
 - Lead the analysis of Youth Ready Project from data validation, cleaning, preproceesing and performing feature engineering through exploratory data analysis and performing statistical
 test to building statistical / machine learning models by fitting, training, validating and model deployment to support project outcome monitoring and real time data-driven decision-making.
 - Developed Reach Data collection System that reports data from nine National offices adhering to cross-sector reported indicators ensuring accuracy, integrity, consistency and 
 confidentiality of data and having a cetralized database for accessibility by utilizing partners.
-- Supported the Regional Monitoring and Evaluation Advisor in reporting on project indicators performance  by building data  models that allow prediction to ensure target outcomes
+- Supported the Regional Monitoring and Evaluation Advisor in provide timely and accurate reporting on project indicators performance  by building data  models that allow prediction to ensure target outcomes
 are achieved within the planned timeline.
 - Suported the design, development, piloting and implementation and maintenance of Interactive PowerBI Grants Approval Tracker for the Resource Development Unity which enhanced reporting on grants approval rates, 
 pending approvals and sucessfull approvals. 
